@@ -17,4 +17,5 @@ Once added, trigger the skill by typing `/<skill-name>` (e.g., `/llm-debate`).
 
 ## Available Skills
 
-- **[`llm-debate`](llm-debate/SKILL.md)**: Executes a multi-agent consensus workflow (Blind Evaluation -> 5-turn debate -> Summary) to eliminate hallucinations and cross-verify facts, logic, and code.
+- **[`llm-debate`](llm-debate/SKILL.md)**: Executes a multi-agent consensus workflow (Blind Evaluation -> 5-turn debate -> Summary) to eliminate hallucinations and cross-verify facts, logic, and code.  
+  *Example*: `/llm-debate Should we use gRPC or REST over HTTP/2 for low-latency internal communication between 20+ microservices?`
